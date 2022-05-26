@@ -1,1 +1,1 @@
-# shop-a-lot
+# Shop-A-Lot
